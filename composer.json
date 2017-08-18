@@ -1,0 +1,14 @@
+{
+    "name": "synusoft309/demo_first",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zhi Hu",
+            "email": "weixindev3@sina.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
